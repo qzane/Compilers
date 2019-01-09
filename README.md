@@ -13,7 +13,6 @@ sudo apt-add-repository ppa:mmk2410/eclipse-ide-java
 sudo apt-get update
 sudo apt-get install openjdk-8-jdk
 sudo apt install eclipse-ide-java
-ex
 ```
 ### import the examples
 1. Download the [Archive Files](http://www.cs.unc.edu/~prins/Classes/520/)
