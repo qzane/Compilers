@@ -14,8 +14,8 @@ sudo apt-get install openjdk-8-jdk
 sudo apt-get install eclipse
 ```
 ### import the examples
-Download the [Archive Files](http://www.cs.unc.edu/~prins/Classes/520/)
-Open eclipse, go to the workbench and create a Java project (say simpleScannerParser).
-Under simpleScannerParser, right click the "scr" icon , and select "import..."
-The import source should be "General -> Archive File"
+1. Download the [Archive Files](http://www.cs.unc.edu/~prins/Classes/520/)
+2. Open eclipse, go to the workbench and create a Java project (say simpleScannerParser).
+3. Under simpleScannerParser, right click the "scr" icon , and select "import..."
+4. The import source should be "General -> Archive File"
 
