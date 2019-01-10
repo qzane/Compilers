@@ -2,7 +2,7 @@
 Some tutorials for COMP 520 Compilers
 
 # Setting up the environment
-
+Feel free to use any existing java environment on your computer, but make sure to use Java SE (Standard Edition) version 8.
 ## for 64-bit windows users
 you can download the portable version [eclipseJDK-win-x86_64.zip](https://github.com/qzane/Compilers/releases/download/20190109/eclipseJDK-win-x86_64.zip), unzip it, and run the eclipse.exe.
 
