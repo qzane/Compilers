@@ -9,7 +9,8 @@ you can download the portable version [eclipseJDK-win-x86_64.zip](https://github
 ## for ubuntu users
 ### install jdk and eclipse
 ```
-sudo apt-add-repository ppa:mmk2410/eclipse-ide-java # the official version of eclipse is too old
+# the version of eclipse in the official repositories is too old
+sudo apt-add-repository ppa:mmk2410/eclipse-ide-java 
 sudo apt-get update
 sudo apt-get install openjdk-8-jdk
 sudo apt install eclipse-ide-java
@@ -17,7 +18,7 @@ sudo apt install eclipse-ide-java
 ### import the examples
 1. Download the [Archive Files](http://www.cs.unc.edu/~prins/Classes/520/)
 2. Open Eclipse IDE, go to the workbench and create a Java project (say simpleScannerParser).
-3. Under simpleScannerParser, right click the "scr" icon , and select "import..."
+3. Right click the project you created, and select "import..." 
 4. The import source should be "General -> Archive File"
 
 # FAQ
