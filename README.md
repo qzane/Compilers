@@ -9,7 +9,7 @@ you can download the portable version [eclipseJDK-win-x86_64.zip](https://github
 ## for ubuntu users
 ### install jdk and eclipse
 ```
-sudo apt-add-repository ppa:mmk2410/eclipse-ide-java
+sudo apt-add-repository ppa:mmk2410/eclipse-ide-java # the official version of eclipse is too old
 sudo apt-get update
 sudo apt-get install openjdk-8-jdk
 sudo apt install eclipse-ide-java
